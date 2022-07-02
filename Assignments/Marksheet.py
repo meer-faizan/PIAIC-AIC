@@ -29,7 +29,7 @@ print ("|      Subject       |       Max Marks       |      Obtained Marks      
 print ("-------------------------------------------------------------------------")
 print ("|      English       |          100          |            " + str(english) + "          |")
 print ("|      Urdu          |          100          |            " + str(urdu) + "          |")
-print ("|      Math          |          100          |            " + str(math) + "          |")
+print ("|      Mathematics   |          100          |            " + str(math) + "          |")
 print ("|      Physics       |          100          |            " + str(physics) + "          |")
 print ("|      Chemistry     |          100          |            " + str(chemistry) + "          |")
 print ("-------------------------------------------------------------------------")
